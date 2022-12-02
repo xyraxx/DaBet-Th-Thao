@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DaBet Thể Thao</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="title">List of Rubik\'s Cube Algorithms 3x3</string>
+
+    <string name="body">
+        1. Getting the "white cross" \n F\' U L\' U\' \n\n
+        2a. First layer left corner \n D L D\' L\’ \n\n
+        2b. First layer right corner \n  D\' R\' D R \n\n
+        3a. Right edge piece placement \n U R U\' R\' U\' F\' U F \n\n
+        3b. Left edge piece placement \n U\' L\' U L U F U\' F\' \n\n
+        4. Getting the white cross without disrupting the rest of the cube \n F R U R\' U\' F\' \n\n
+        5. Solving third layer edge pieces \n R U R\' U R U U R\' \n\n
+        6. Placing the third layer corner pieces \n U R U\' L\' U R\' U\' L \n\n
+        7. Finishing the cube \n R\' D\' R D
+    </string>
+
+
+</resources>
